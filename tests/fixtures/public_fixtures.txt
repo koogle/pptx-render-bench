@@ -1,0 +1,36 @@
+# Public PPTX Test Fixtures
+#
+# Each line: <category>/<filename> <url>
+# Lines starting with # are comments.
+# Download with: scripts/download_fixtures.sh
+
+# === python-pptx test files (scanny/python-pptx on GitHub) ===
+python-pptx/shp-shapes.pptx https://raw.githubusercontent.com/scanny/python-pptx/master/features/steps/test_files/shp-shapes.pptx
+python-pptx/shp-autoshape-props.pptx https://raw.githubusercontent.com/scanny/python-pptx/master/features/steps/test_files/shp-autoshape-props.pptx
+python-pptx/shp-groupshape.pptx https://raw.githubusercontent.com/scanny/python-pptx/master/features/steps/test_files/shp-groupshape.pptx
+python-pptx/shp-freeform.pptx https://raw.githubusercontent.com/scanny/python-pptx/master/features/steps/test_files/shp-freeform.pptx
+python-pptx/shp-picture.pptx https://raw.githubusercontent.com/scanny/python-pptx/master/features/steps/test_files/shp-picture.pptx
+python-pptx/shp-connector-props.pptx https://raw.githubusercontent.com/scanny/python-pptx/master/features/steps/test_files/shp-connector-props.pptx
+python-pptx/txt-font-props.pptx https://raw.githubusercontent.com/scanny/python-pptx/master/features/steps/test_files/txt-font-props.pptx
+python-pptx/txt-text.pptx https://raw.githubusercontent.com/scanny/python-pptx/master/features/steps/test_files/txt-text.pptx
+python-pptx/font-color.pptx https://raw.githubusercontent.com/scanny/python-pptx/master/features/steps/test_files/font-color.pptx
+python-pptx/dml-fill.pptx https://raw.githubusercontent.com/scanny/python-pptx/master/features/steps/test_files/dml-fill.pptx
+python-pptx/dml-line.pptx https://raw.githubusercontent.com/scanny/python-pptx/master/features/steps/test_files/dml-line.pptx
+python-pptx/sld-background.pptx https://raw.githubusercontent.com/scanny/python-pptx/master/features/steps/test_files/sld-background.pptx
+python-pptx/sld-slides.pptx https://raw.githubusercontent.com/scanny/python-pptx/master/features/steps/test_files/sld-slides.pptx
+python-pptx/tbl-cell.pptx https://raw.githubusercontent.com/scanny/python-pptx/master/features/steps/test_files/tbl-cell.pptx
+python-pptx/minimal.pptx https://raw.githubusercontent.com/scanny/python-pptx/master/features/steps/test_files/minimal.pptx
+
+# === Apache POI test files (apache/poi on GitHub) ===
+poi/SampleShow.pptx https://raw.githubusercontent.com/apache/poi/trunk/test-data/slideshow/SampleShow.pptx
+poi/shapes.pptx https://raw.githubusercontent.com/apache/poi/trunk/test-data/slideshow/shapes.pptx
+poi/customGeo.pptx https://raw.githubusercontent.com/apache/poi/trunk/test-data/slideshow/customGeo.pptx
+poi/table_test.pptx https://raw.githubusercontent.com/apache/poi/trunk/test-data/slideshow/table_test.pptx
+poi/backgrounds.pptx https://raw.githubusercontent.com/apache/poi/trunk/test-data/slideshow/backgrounds.pptx
+poi/themes.pptx https://raw.githubusercontent.com/apache/poi/trunk/test-data/slideshow/themes.pptx
+poi/layouts.pptx https://raw.githubusercontent.com/apache/poi/trunk/test-data/slideshow/layouts.pptx
+poi/with_japanese.pptx https://raw.githubusercontent.com/apache/poi/trunk/test-data/slideshow/with_japanese.pptx
+poi/pptx2svg.pptx https://raw.githubusercontent.com/apache/poi/trunk/test-data/slideshow/pptx2svg.pptx
+poi/smartart-simple.pptx https://raw.githubusercontent.com/apache/poi/trunk/test-data/slideshow/smartart-simple.pptx
+poi/picture-transparency.pptx https://raw.githubusercontent.com/apache/poi/trunk/test-data/slideshow/picture-transparency.pptx
+poi/present1.pptx https://raw.githubusercontent.com/apache/poi/trunk/test-data/slideshow/present1.pptx

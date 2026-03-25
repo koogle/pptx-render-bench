@@ -2,6 +2,8 @@
 /target/
 Cargo.lock
 tests/debug/
+tests/fixtures/public/
+tests/output/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
